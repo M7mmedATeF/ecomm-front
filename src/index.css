@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding-inline: 10%;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}

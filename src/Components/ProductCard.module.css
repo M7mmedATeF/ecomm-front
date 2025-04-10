@@ -1,0 +1,20 @@
+.cardBG {
+  width: 100%;
+  color: #000;
+}
+
+.cardBG img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: contain;
+}
+
+.name {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
